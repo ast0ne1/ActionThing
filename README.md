@@ -2,6 +2,8 @@
 
 A customizable webhook trigger app for DeskThing that allows you to create up to 10 configurable action buttons to send HTTP requests to external services, APIs, and automation platforms.
 
+Vibe coded with Cursor based on Riprod's DeskThing app template.
+
 ## Features
 
 ### 🎯 **Core Functionality**
