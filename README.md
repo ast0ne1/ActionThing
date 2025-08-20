@@ -1,4 +1,4 @@
-# ActionThing
+# ⚡ ActionThing
 
 A customizable webhook trigger app for DeskThing that allows you to create up to 10 configurable action buttons to send HTTP requests to external services, APIs, and automation platforms.
 
