@@ -166,7 +166,8 @@ ActionThing/
 │   ├── main.tsx            # Entry point
 │   └── index.css           # Styles
 ├── server/
-│   └── index.ts            # DeskThing server module
+│   ├── index.ts            # DeskThing server module
+│   └── setupSettings.ts    # DeskThing settings module
 ├── deskthing/
 │   ├── manifest.json       # App metadata
 │   └── icons/
