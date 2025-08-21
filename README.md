@@ -18,7 +18,7 @@ Vibe coded with Cursor based on Riprod's DeskThing app template.
 - **Basic Auth** - Username/password authentication
 
 ### 🎨 **Visual Customization**
-- **Custom Colors** - Color picker and preset color options
+- **Custom Colors** - Color picker options
 - **Button Labels** - Clear text labels for each button
 
 ### 📡 **Request Configuration**
