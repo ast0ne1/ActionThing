@@ -281,7 +281,7 @@ const App: React.FC = () => {
           <div className="mt-8 sm:mt-12 grid gap-6 sm:gap-8 justify-center items-center max-w-4xl mx-auto"
                style={{
                  gridTemplateColumns: enabledButtons.length <= 2 
-                   ? 'repeat(2, 1fr)'
+                   ? 'repeat(2, minmax(160px, 220px))'
                    : enabledButtons.length <= 4
                    ? 'repeat(2, 1fr)'
                    : 'repeat(3, 1fr)'
