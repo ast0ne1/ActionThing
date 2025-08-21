@@ -7,7 +7,7 @@ Vibe coded with Cursor based on Riprod's DeskThing app template.
 ## Features
 
 ### 🎯 **Core Functionality**
-- **10 Configurable Buttons** - Enable/disable and customize up to 10 action buttons
+- **6 Configurable Buttons** - Enable/disable and customize up to 6 action buttons
 - **Custom Labels** - Add personalized labels that display prominently on each button
 - **HTTP Requests** - Send POST/PUT requests to any URL endpoint
 - **Centralized Configuration** - Single settings panel with dropdown button selection
@@ -19,9 +19,7 @@ Vibe coded with Cursor based on Riprod's DeskThing app template.
 
 ### 🎨 **Visual Customization**
 - **Custom Colors** - Color picker and preset color options
-- **Drag & Drop** - Reposition buttons anywhere on the canvas
-- **Grid Snapping** - Optional alignment assistance
-- **Button Numbering** - Clear visual indicators (1-10)
+- **Button Labels** - Clear text labels for each button
 
 ### 📡 **Request Configuration**
 - **Custom Headers** - Add/remove HTTP headers as needed
@@ -70,15 +68,9 @@ For each button, you can configure:
 
 - **Single Click** - Trigger the configured HTTP request
 - **Double Click** - Open configuration panel
-- **Drag** - Reposition the button on canvas
-- **Right Click** - Quick access to configuration
 
 ### Response Feedback
-
-- **Green Ring** - Successful request (2xx status)
-- **Red Ring** - Failed request (error or non-2xx status)
-- **Spinner** - Request in progress
-- **Logs** - Detailed request history in bottom-left corner
+- **Logs** - Detailed request history in right panel
 
 ## Use Cases
 
