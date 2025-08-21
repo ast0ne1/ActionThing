@@ -1,0 +1,23 @@
+{
+  "id": "actionthing",
+  "isWebApp": true,
+  "requires": [""],
+  "label": "Action Thing",
+  "version": "0.11.4",
+  "version_code": "11.4",
+  "compatible_server": ["10"],
+  "compatible_client": ["10"],
+  "description": "A simple webhook trigger app for DeskThing with configurable buttons to send HTTP requests to external services",
+  "author": "milest0ne",
+  "platforms": ["windows"],
+  "homepage": "https://deskthing.app",
+  "repository": "https://github.com/ast0ne1/ActionThing",
+  "tags": ["Web App", "Automation", "Webhooks", "PowerAutomate", "Productivity"],
+  "icon": "icons/actionthing.svg",
+  "main": "server/index.ts",
+  "requiredVersions": {
+    "server": ">=0.11.0",
+    "client": ">=0.11.0"
+  },
+  "updateUrl": "https://github.com/ast0ne1/ActionThing"
+}
