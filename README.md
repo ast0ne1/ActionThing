@@ -4,6 +4,11 @@ A customizable webhook trigger app for DeskThing that allows you to create up to
 
 Vibe coded with Cursor based on Riprod's DeskThing app template.
 
+![action_thing_main_ui](https://github.com/user-attachments/assets/c069aaa4-4796-49e8-b2b2-923545411551)
+
+![action_thing_settings_ui](https://github.com/user-attachments/assets/2a80c399-bdd1-4ce8-851f-ae08466bcb4a)
+
+
 ## Features
 
 ### 🎯 **Core Functionality**
